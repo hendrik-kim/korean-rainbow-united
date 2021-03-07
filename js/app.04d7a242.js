@@ -274,9 +274,6 @@
                       }),
                       1
                     ),
-                    r('v-card-text', { staticClass: 'white--text pt-0' }, [
-                      t._v(' Footer contents '),
-                    ]),
                     r('v-card-text', { staticClass: 'white--text' }, [
                       t._v(' ' + t._s(new Date().getFullYear()) + ' — '),
                       r('strong', [t._v('Korean Rainbow United')]),
