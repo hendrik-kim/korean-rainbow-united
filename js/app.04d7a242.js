@@ -324,9 +324,6 @@
                   }),
                   1
                 ),
-                a('v-card-text', { staticClass: 'white--text pt-0' }, [
-                  t._v(' Lorem ipsum dolor sit amet '),
-                ]),
                 a('v-divider'),
                 a('v-card-text', { staticClass: 'white--text' }, [
                   t._v(' ' + t._s(new Date().getFullYear()) + ' — '),
